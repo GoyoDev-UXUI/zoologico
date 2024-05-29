@@ -7,8 +7,8 @@ class Main {
         int opcion = -1;
 
         while (opcion != 3) {
-            System.out.println("Selecciona una opción:");
-            System.out.println("1. Añadir animal");
+            System.out.println("Bienvenido al Zoologico de Valencia Selecciona una opción:");
+            System.out.println("1. Añadir un animal");
             System.out.println("2. Mostrar animales");
             System.out.println("3. Salir");
 
